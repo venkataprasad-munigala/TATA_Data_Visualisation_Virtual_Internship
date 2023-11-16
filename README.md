@@ -1,8 +1,8 @@
 # TATA_Data_Visualisation_Virtual_Internship
 
-Tata iQ and Tata Insights and Quants present an immersive virtual experience program. Within this program, I delve into the deep-seated enthusiasm and expertise of versatile professionals, leveraging the capabilities of data visualization tools like Tableau and Power BI. Together, they confront complex business problems and uncover enthralling insights concealed within extensive datasets.
+Thrilled to be part of Tata iQ and Tata Insights and Quants' virtual experience program! Dived into the world of data visualization using Power BI tracked business problems, and uncovered cool insights from datasets.
 
-The program showcases the types of challenges that Tata Insights and Quants face on a daily basis, striving to simulate the difficulties individuals might encounter.
+This program gave me a sneak peek into the daily adventures at Tata Insights and Quants, making the data journey feel like a fun puzzle to solve.
 
 ## There are 4 modules in this virtual experience program. 
 
@@ -86,8 +86,5 @@ Effectively communicate your findings and explain how it relates to each scenari
 
 Present findings to CEO and CMO. Explain the data cleanup and visualization process clearly. Discuss the analysis of all four previous questions. Expansion is top of mind for these leaders, so focus on identifying lucrative expansion opportunities.
 
-#### Details for task
-
-Create a concise 5-minute video presentation for the CEO and CMO, based on the four questions and visuals from the previous tasks. Explain the entire process, including data loading and cleanup, to demonstrate diligence. Focus on the key information relevant to the leaders and provide context for each scenario in relation to their questions.
 
 [Solution (PowerBI)](https://github.com/venkataprasad-munigala/TATA_Data_Visualisation_Virtual_Internship/blob/main/TCS-DA-Sim.pbix)
